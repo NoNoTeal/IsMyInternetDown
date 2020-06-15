@@ -4,7 +4,7 @@ No, but it's most likely shit. If you're still unsure, here's how you determine 
 
 ## Checking if your internet is down
 
-Simply go to the site: https://nonoteal.github.io/ismyinternetdown and you will get told if your internet is dead.
+Simply go to the site: https://nonoteal.github.io/IsMyInternetDown/ and you will get told if your internet is dead.
 
 ## Support
 
